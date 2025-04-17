@@ -25,6 +25,7 @@ Common Vulnerabilities and Exposures
 
 International Journal
 ======
+* [J5] Sang-Hoon Choi*, Ki-Woong Park†, “GENOME: Genetic Encoding for Novel Optimization of Malware Detection and Classification in Edge Computing,” Computers, Materials & Continua (ISSN: 1546-2226), Vol. 82, No. 3, pp. 4021-4039, Mar 2025 (SCI, Impact Factor: 2.1)
 * [J4] Joo-Young Roh*, Sang-Hoon Choi*, Ki-Woong Park†, "OOSP: Opportunistic Optimization Scheme for Pod Deployment Enhanced with Multilayered Sensing," Sensors, Vol. 24, Issue 19, Sep 2024. (SCI, Impact Factor: 3.4)
 * [J3] Sang-Hoon Choi*, Ki-Woong Park†, "iContainer: Consecutive checkpointing with rapid resilience for immortal container-based services," Journal of Network and Computer Applications, Vol. 208, Dec 2022. (SCI, Impact Factor: 7.547)
 * [J2] Sang-Hoon Choi*, Ki-Woong Park†, "Cloud-BlackBox: Toward practical recording and tracking of VM swarms for multifaceted cloud inspection," Future Generation Computer Systems, Vol. 137, Dec 2022, pp. 219-233. (SCI, Impact Factor: 7.307)
@@ -52,6 +53,8 @@ International Conference
 
 Domestic Journal
 ======
+* [DJ8]  박지훈*, 최상훈, 박기웅†, “피싱 캠페인의 동향 조사 및 피싱 탐지기법에 대한 분류,” 정보처리학회논문지 (KCI등재지) (ISSN: 3022-7011), Vol. 14 No. 3, pp.149-160 (2025년 3월)
+* [DJ7] 최재민*, 최상훈, 박기웅†, “시스템 API 호출 순서 정보를 통한 안드로이드 악성 코드 패밀리 분류 기법,” 정보보호학회논문지 (KCI등재지) (ISSN: 2288-2715), Vol. 35 No. 1, pp.67-78 (2025년 2월)
 * [DJ6] 최기상*, 최상훈, 박기웅†, "코드패치 및 하이브리드 분석 환경을 활용한 악성코드 데이터셋 추출 프레임워크 설계," 정보보호학회논문지, 2024년 6월.
 * [DJ5] 장은태*, 최상훈, 박기웅†, "효율적인 가상화 시스템 프로파일링을 위한 성능 측정 프레임워크," 한국차세대컴퓨팅학회 논문지, 2019년 6월.
 * [DJ4] 최상훈*, 박준규, 박기웅†, "안전한 컨테이너 환경 구축/운영을 위한 보안 위협 검증 자동화 플랫폼," 한국차세대컴퓨팅학회 논문지, 2018년 10월.
@@ -61,6 +64,16 @@ Domestic Journal
 
 Domestic Conference
 ======
+* [DC27] 허남정*, 최상훈, 박기웅†, “효율적인 APT 시뮬레이터 프레임워크 제안,” 2024 한국정보보호학회 동계학술대회 (CISC-W’24), Vol.34 No.2, pp.581-584, 2024.11.28-29
+* [DC26] 박지훈*, 최상훈, 박기웅†, “무선통신 환경에서의 데이터 은폐 기법과 은닉 채널 형성 방법 조사,” 2024 한국정보보호학회 동계학술대회 (CISC-W’24), Vol.34 No.2, pp.307-310, 2024.11.28-29
+* [DC25] 최재민*, 최상훈, 박기웅†, “Linux OS 대상 랜섬웨어 탐지 기법 동향,” 2024 한국정보보호학회 동계학술대회 (CISC-W’24), Vol.34 No.2, pp.295-298, 2024.11.28-29
+* [DC24] 김미연*, 최상훈, 박기웅†, “클라우드 환경에서의 제로 트러스트 한계 분석,” 2024 한국정보보호학회 동계학술대회 (CISC-W’24), Vol.34 No.2, pp.107-110, 2024.11.28-29
+* [DC23] 허남정*, 이세한*, 최상훈, 박기웅†, “지능형 시스템을 적용한 MTD 전략에 대한 연구 동향 분석,” 2024 한국정보처리학회 추계학술대회 (ACK’24), Vol.31, No.2, pp.222-225, 2024.10.31-11.02
+* [DC22] 김미연*, 최상훈, 박기웅†, “클라우드 포렌식에서의 SLA 한계와 개선 방안 제안,” 2024 한국정보처리학회 추계학술대회 (ACK’24), Vol.31, No.2, pp.191-194, 2024.10.31-11.02
+* [DC21] 박지훈*, 최상훈, 박기웅†, “피싱 탐지기법 조사 및 분류: 비정상적 상호작용,” 2024 한국정보처리학회 추계학술대회 (ACK’24), Vol.31, No.2, pp.181-184, 2024.10.31-11.02, 우수논문상
+* [DC20] 이재욱*, 최상훈, 박기웅†, “고도화된 스테가노그래피 공격기술 조사,” 2024 한국정보처리학회 추계학술대회 (ACK’24), Vol.31, No.2, pp.177-180, 2024.10.31-11.02
+* [DC19] 최재민*, 최상훈, 박기웅†, “프로그램 변조를 통한 APK 타입 랜섬웨어 복호화 기법,” 2024 한국정보처리학회 추계학술대회 (ACK’24), Vol.31, No.2, pp.167-170, 2024.10.31-11.02
+* [DC18] 최용희*, 최상훈, 박기웅†, “IT 환경 변화에 따른 국가 사이버 복원력 제고를 위한 고려사항,” 2024 한국정보처리학회 추계학술대회 (ACK’24), Vol.31, No.2, pp.152-155, 2024.10.31-11.02
 * [DC17] 김상현*, 최상훈, 박기웅†, "CATS : 마이크로서비스 프로세스 안티-템퍼링을 통한 공격 탐지 방안 연구," 2024년 한국정보보호학회 하계학술대회(CISC-S’24), Vol. 34, No. 1, pp. 612-615, 2024.06.20-21.
 * [DC16] 최재민*, 최상훈, 박기웅†, "안드로이드 악성코드 패밀리 분류를 위한 시스템 콜 패턴 분석 연구," 2024년 한국정보보호학회 하계학술대회(CISC-S’24), Vol. 34, No. 1, pp. 544-547, 2024.06.20-21, 우수논문상.
 * [DC15] 박지훈*, 최상훈, 박기웅†, "대규모 언어 모델에서 적대적 프롬프트의 위협: 재현 및 분석," 2024년 한국정보보호학회 하계학술대회(CISC-S’24), Vol. 34, No. 1, pp. 30-33, 2024.06.20-21.
