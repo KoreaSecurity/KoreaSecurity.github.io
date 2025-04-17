@@ -9,6 +9,20 @@ redirect_from:
 
 I am a research professor in the Department of Information Security at Sejong University and a member of SysCore Lab. I completed my Ph.D. at Sejong University in 2023, focusing on innovative approaches to securing complex systems. My primary research interests include system security, cloud security, and the rapidly evolving field of AI-related threats and defenses. With a strong focus on documenting and analyzing systems in depth, I am currently developing advanced methodologies for identifying and mitigating AI-driven vulnerabilities, especially in cloud environments. My current work centers on integrating established research outcomes with AI to create resilient, future-ready defense mechanisms against emerging cybersecurity threats.
 
+Common Vulnerabilities and Exposures
+======
+* CVE-2024-48519
+* CVE-2024-51395
+* CVE-2024-51394
+* CVE-2024-55048
+* CVE-2024-55045
+* CVE-2024-55047
+* CVE-2024-55046
+* CVE-2024-55049
+* CVE-2025-28343
+* CVE-2025-28344
+
+
 International Journal
 ======
 * [J4] Joo-Young Roh*, Sang-Hoon Choi*, Ki-Woong Park†, "OOSP: Opportunistic Optimization Scheme for Pod Deployment Enhanced with Multilayered Sensing," Sensors, Vol. 24, Issue 19, Sep 2024. (SCI, Impact Factor: 3.4)
