@@ -34,6 +34,8 @@ International Journal
 
 International Conference
 ======
+* [IC18] Mi-Yeon Kim*, Sang-Hoon Choi, and Ki-Woong Park†, “Revealing Hidden Contention through Disk I/O Analysis in Multi-Tenant Containers,” The 26th World Conference on Information Security Applications 2025 (WISA 2025), Aug 20-22, 2025, Jeju, Korea
+* [IC17] Jae-Min Choi*, Sang-Hoon Choi, and Ki-Woong Park†, “Interaction-Aware System Call Sequence Analysis for Android Malware Classification,” The 26th World Conference on Information Security Applications 2025 (WISA 2025), Aug 20-22, 2025, Jeju, Korea
 * [IC16] Arpita Dinesh Sarang*, Sang-Hoon Choi, Ki-Woong Park†, "Plotting OSS-based Supply Chain attack strategies and the defense failure," The 25th World Conference on Information Security Applications (WISA 2024), Aug 2024.
 * [IC15] In Hoe Ku*, Sang-Hoon Choi, Ki-Woong Park†, "A Study for Decrease False Positive and False Negative Antivirus Technique in File Partial Encryption," The 7th International Symposium on Mobile Internet Security (MobeSec 2023), Dec 2023.
 * [IC14] HyeLim Jung*, Sang-Hoon Choi, Mohsen Ali Alawami, Sung-Kyu Ahn, Ki-Woong Park†, "I Know Where You Are: A Non-intrusive Geospatial–Electrical Authentication System," IEEE 6th International Conference on Artificial Intelligence and Knowledge Engineering (AIKE 2023), Sep 2023.
@@ -65,6 +67,12 @@ Domestic Journal
 
 Domestic Conference
 ======
+* [DC33] 우상민*, 황대성*, 장도원*, 최상훈, 박기웅†, “δ-Tracer: 도커 이미지 델타 추적을 통한 위협벡터탐색 프레임워크,” 2025 한국정보보호학회 하계학술대회 (CISC-S’25), 2025.06.24-25
+* [DC32] 허남정*, 최상훈, 박기웅†, “CL-OTC: UAV 환경에서 LoRa 은닉 채널 기반의 OneTime-Command 프레임워크 구현,” 2025 한국정보보호학회 하계학술대회 (CISC-S’25), 2025.06.24-25
+* [DC31] 황혜경*, 이지원*, 백지은*, 성아영*, 최상훈, 박기웅†, “클라우드 Shadow IT 위협 사례 분석을 통한 클라우드 리소스 스캐너 요구사항 도출,” 2025 한국정보보호학회 하계학술대회 (CISC-S’25), 2025.06.24-25, 우수논문상
+* [DC30] 지동혁*, 최상훈, 박기웅†, “OpenTelemetry와 Elastic APM의 관측성(Observability) 기능 비교 연구,” 2025 한국정보보호학회 하계학술대회 (CISC-S’25), 2025.06.24-25
+* [DC29] 하영빈*, 최상훈, 박기웅†, “전장형 CPS 이상행동 탐지 기술 조사,” 2025 한국정보보호학회 하계학술대회 (CISC-S’25), 2025.06.24-25
+* [DC28] 장수혁*, 최상훈, 박기웅†, “리눅스 커널 취약점 세대별 트렌드와 탐지기술  발전 조사,” 2025 한국정보보호학회 하계학술대회 (CISC-S’25), 2025.06.24-25
 * [DC27] 허남정*, 최상훈, 박기웅†, “효율적인 APT 시뮬레이터 프레임워크 제안,” 2024 한국정보보호학회 동계학술대회 (CISC-W’24), Vol.34 No.2, pp.581-584, 2024.11.28-29
 * [DC26] 박지훈*, 최상훈, 박기웅†, “무선통신 환경에서의 데이터 은폐 기법과 은닉 채널 형성 방법 조사,” 2024 한국정보보호학회 동계학술대회 (CISC-W’24), Vol.34 No.2, pp.307-310, 2024.11.28-29
 * [DC25] 최재민*, 최상훈, 박기웅†, “Linux OS 대상 랜섬웨어 탐지 기법 동향,” 2024 한국정보보호학회 동계학술대회 (CISC-W’24), Vol.34 No.2, pp.295-298, 2024.11.28-29
