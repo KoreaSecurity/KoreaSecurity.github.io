@@ -11,6 +11,9 @@ I am a research professor in the Department of Information Security at Sejong Un
 
 Common Vulnerabilities and Exposures
 ======
+* CVE-2026-32637 (VMWARE-Tanzu)
+* CVE-2025-28343
+* CVE-2025-28344
 * CVE-2024-48519
 * CVE-2024-51395
 * CVE-2024-51394
@@ -19,9 +22,6 @@ Common Vulnerabilities and Exposures
 * CVE-2024-55047
 * CVE-2024-55046
 * CVE-2024-55049
-* CVE-2025-28343
-* CVE-2025-28344
-
 
 International Journal
 ======
