@@ -11,7 +11,8 @@ I am a research professor in the Department of Information Security at Sejong Un
 
 Common Vulnerabilities and Exposures
 ======
-* CVE-2026-32637 (VMWARE-Tanzu)
+* CVE-2026-33211 pipeline (Critical) 9.6
+* CVE-2026-32637 VMWARE-Tanzu
 * CVE-2025-28343
 * CVE-2025-28344
 * CVE-2024-48519
