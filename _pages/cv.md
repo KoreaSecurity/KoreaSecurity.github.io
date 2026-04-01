@@ -11,6 +11,7 @@ I am a research professor in the Department of Information Security at Sejong Un
 
 Common Vulnerabilities and Exposures
 ======
+* CVE-2026-33322 minio
 * CVE-2026-33414
 * soon (Critical) 9.2
 * CVE-2026-33211 pipeline (Critical) 9.6
