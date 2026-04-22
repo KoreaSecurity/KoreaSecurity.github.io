@@ -11,6 +11,8 @@ I am a research professor in the Department of Information Security at Sejong Un
 
 Common Vulnerabilities and Exposures
 ======
+* CVE-2026-6840
+* CVE-2026-6839
 * CVE-2026-33322 minio
 * CVE-2026-33414
 * CVE-2026-41323 kyverno (High) 8.1
